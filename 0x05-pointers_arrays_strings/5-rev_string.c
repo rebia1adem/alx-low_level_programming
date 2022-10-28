@@ -6,7 +6,7 @@
  */
 void rev_string(char *s)
 {
-	char revesre = s[0];
+	char reverse = s[0];
 	int count = 0;
 	int i;
 
